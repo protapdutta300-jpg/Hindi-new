@@ -3,6 +3,8 @@
 #EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_web/1170x658withlog1476130363.png" group-title="ZEE5", &pictures HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
 
+#EXTINF:-1 group-title="Hindi" tvg-logo="logo",CN
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=65c3633157574361b191059e46e72968:78450b11381340c297d96c13183d3744
