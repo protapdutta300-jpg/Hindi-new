@@ -1,3 +1,50 @@
+#EXTINF:-1 group-title="Hindi" tvg-logo="logo",Sony kal
+https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="logo", Sony Cine
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="logo",Wild life
+https://wildearth-plex.amagi.tv/master.m3u8
+
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="logo",Documentary 
+https://a38d899367d24b1197db60dedfa80262.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-FREELIVESPORTS/mt/freelivesports/887/hls/master/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="logo",YRF music
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="logo",Nature time
+https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="logo",National geography 
+http://84.17.50.102/nationalgeographic/index.m3u8
+
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="logo",Net geo wild
+http://84.17.50.102/natgeowild/index.m3u8
+
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="logo",Zee one
+https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
+
+
+.#EXTINF:-1 group-title="Hindi" tvg-logo="logo",Zee bharat
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8
+
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="logo",Sony one Favoris
+https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="logo",Sony one hit action
+https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6
 #EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_web/1170x658withlog1476130363.png" group-title="ZEE5", &pictures HD
