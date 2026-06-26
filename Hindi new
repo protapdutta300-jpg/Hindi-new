@@ -1,3 +1,35 @@
+#EXTINF:-1 group-title="Hindi" tvg-logo="logo",Sony pal
+http://live.balajibroadband.com:3500/live/474.m3u8
+
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="logo",Sony max 1
+http://live.balajibroadband.com:3500/live/3418.m3u8
+
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="logo",BBC Earth 
+http://live.balajibroadband.com:3500/live/821.m3u8
+
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="logo",Sony max HD
+http://live.balajibroadband.com:3500/live/476.m3u8
+
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="logo",Sony max 2
+http://live.balajibroadband.com:3500/live/483.m3u8
+
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="logo",Star movies select  HD
+http://66.102.126.10:8000/play/a020/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="logo",DD national 
+http://103.175.73.12:8080/live/15/15_0.m3u8
+
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="logo",8xm
+https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
+
 #EXTINF:-1 group-title="Hindi" tvg-logo="logo",Sony kal
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 
