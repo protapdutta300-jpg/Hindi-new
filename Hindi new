@@ -1,3 +1,18 @@
+#EXTINF:-1 group-title="Hindi" tvg-logo="logo",Joo music
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="logo",Hindi hits
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="logo",Hindi movie classic 
+https://vods2.aynaott.com/hindimovies/index.m3u8
+
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="logo",National geography HD t
+http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/63557
+
 #EXTINF:-1 group-title="Hindi" tvg-logo="logo",Sony pal
 http://live.balajibroadband.com:3500/live/474.m3u8
 
